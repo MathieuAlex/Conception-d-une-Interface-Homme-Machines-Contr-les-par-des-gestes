@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖱️ Souris Virtuelle — Contrôle de la souris par reconnaissance gestuelle en temps réel
 
 > **Projet de vision par ordinateur** combinant intelligence artificielle, traitement d'image et interaction homme-machine sans contact physique.
@@ -219,3 +220,7 @@ Projet réalisé dans le cadre du cours **Sciences Cognitives & Traitement d'Ima
 ---
 
 *Licence : usage académique — ∂ Tous droits réservés*
+=======
+# Conception-d-une-Interface-Homme-Machines-Contr-les-par-des-gestes
+ Virtual Mouse: Real-time touchless cursor control using hand gesture recognition. Powered by OpenCV, MediaPipe, and PyAutoGUI. Features session metrics tracking and a custom Tkinter UI.
+>>>>>>> b02ddf74e25171581c61846eec0e4d70b98ada9b

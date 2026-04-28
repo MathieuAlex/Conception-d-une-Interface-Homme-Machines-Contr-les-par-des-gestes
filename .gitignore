@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # =============================================================================
 # .gitignore — Souris Virtuelle | Alex Mathieu
 # =============================================================================
@@ -47,3 +48,28 @@ htmlcov/
 # ── Variables d'environnement sensibles ───────────────────────────────────────
 .env
 .env.*
+=======
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-files
+*.bclicense
+*.flf
+#Test results file
+TestResults.xml
+>>>>>>> b02ddf74e25171581c61846eec0e4d70b98ada9b
