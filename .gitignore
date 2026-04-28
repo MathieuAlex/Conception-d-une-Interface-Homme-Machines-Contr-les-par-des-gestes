@@ -1,0 +1,49 @@
+# =============================================================================
+# .gitignore — Souris Virtuelle | Alex Mathieu
+# =============================================================================
+
+# ── Environnement virtuel Python ──────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Cache Python ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Build / Distribution (cx_Freeze) ─────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+
+# ── IDE JetBrains (PyCharm) ───────────────────────────────────────────────────
+.idea/
+*.iml
+
+# ── IDE VSCode ────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── Fichiers système Windows ──────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ── Fichiers système macOS ────────────────────────────────────────────────────
+.DS_Store
+
+# ── Logs & données temporaires ────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ── Fichiers de couverture de tests ───────────────────────────────────────────
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ── Variables d'environnement sensibles ───────────────────────────────────────
+.env
+.env.*
