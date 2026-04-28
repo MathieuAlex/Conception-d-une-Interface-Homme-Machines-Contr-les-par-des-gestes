@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🖱️ Souris Virtuelle — Contrôle de la souris par reconnaissance gestuelle en temps réel
 
 > **Projet de vision par ordinateur** combinant intelligence artificielle, traitement d'image et interaction homme-machine sans contact physique.
