@@ -21,3 +21,47 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.so
+
+### Virtual environments ###
+.env
+.venv
+env/
+venv/
+ENV/
+
+### cx_Freeze build output ###
+build/
+
+### IDE ###
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+### pytest ###
+.pytest_cache/
+.cache/
+htmlcov/
+.coverage
+coverage.xml
